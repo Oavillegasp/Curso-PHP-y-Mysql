@@ -1,0 +1,46 @@
+*{
+ padding: 10px;
+ background-color: #999;
+
+}
+.titulo{
+    color: #000;
+    text-align: center;
+    font-size: 50px;
+    background-color: #FFF;
+}
+.Formulario{
+    width: 50%;
+    font-size: 20px;
+    padding: 30px;
+    margin: auto;
+    background-color: #FFF;
+    border-radius: 10px;
+
+}
+.formC{
+    background-color: #FFF;
+}
+.Caja{
+    background: transparent;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 2px solid #999;
+    width: 90%;
+    padding: 20px ;
+}
+.Caja:focus={
+    border-bottom: 2px solid darkred;
+    transition: 2s;
+}
+.btn{
+    background: transparent;
+    border: 1px solid #000;
+    width: 95%;
+    margin: auto;
+    cursor: pointer;
+ }
+ .btn:hover{
+    
+ }

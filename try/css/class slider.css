@@ -1,0 +1,10 @@
+'/*clase de slider*/
+.btn-slider{
+	background-color: rgba(0,0,0,0.5);
+	padding: 10px;
+	border-radius: 50%;
+	}
+.btn-slider:hover{
+	background-color: rgba(103,11,38,0.8);
+	transition: 2s;
+}
